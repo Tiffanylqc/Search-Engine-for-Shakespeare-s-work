@@ -15,6 +15,8 @@ It is used to search for keywords or sentences in whole set of Shakespeare's wor
 3.  I provide the executable file ”SearchEngine_win.exe" for windows and "SearchEngine_mac" for Mac
 
 ### Component
-1.  In "documents" file, I provide all sets of Shakespeare's work as well as a "index.txt" which includes all the title of Shakespeare's work. You are expected to put the documents file and the code file in the same subfolder to guarantee it will read in the content of file and output the correct result. 
+1.  In "documents" file, I provide partial sets of Shakespeare's work as well as a "index.txt" which includes all the title of Shakespeare's work. You are expected to put the documents file and the code file in the same subfolder to guarantee it will read in the content of file and output the correct result. 
 2.  In "Code" file, I provide all source codes.
 3.  “stop word.txt" contains the frequency and location of each words
+
+If you have any problem about my code, feel free to contact me:)
